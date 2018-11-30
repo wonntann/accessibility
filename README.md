@@ -19,6 +19,7 @@
 [Accessibility Testing with pa11y](https://bitsofco.de/pa11y/)<br /> 
 [AccessWorks Become A Tester or Test](https://knowbility.org/programs/accessworks/)<br /> 
 [Become a Tester](https://access-works.com/getstarted.php)<br /> 
+[Automated Testing with Axe](https://www.npmjs.com/package/axe-core)<br />
 
 # Plugin/Tools
 [Sass A11y](https://github.com/at-import/sass-a11y)<br /> 
