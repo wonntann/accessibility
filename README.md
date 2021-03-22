@@ -1,4 +1,4 @@
-# accessibility
+# Accessibility
 
 
 [A11y Checklist](https://a11yproject.com/checklist)
